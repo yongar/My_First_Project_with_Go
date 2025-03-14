@@ -1,0 +1,12 @@
+type: remote_edu
+files:
+  - name: test/MyFirstProjectTest.java
+    visible: false
+    learner_created: false
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/projects/421/stages/2451/implement#comment
+check_profile: hyperskill_go
+status: Unchecked
+record: -1
