@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: float64
+  - text: uint8
+  - text: int32
+  - text: float32
+  - text: int8
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/23499#comment
+status: Solved
+record: -1
+local_check: false

@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>green := 'A'</code>
+  - text: <code>var purple string = "AMONGUS"</code>
+  - text: <code>var blue =  75</code>
+  - text: <code>red := `SUS`</code>
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/15414#comment
+status: Solved
+record: -1
+local_check: false

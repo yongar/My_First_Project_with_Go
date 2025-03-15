@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>var b uint8</code>
+  - text: <code>var c = 10</code>
+  - text: <code>a int</code>
+  - text: <code>a := 100</code>
+  - text: <code>var b int := 100</code>
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16872#comment
+status: Solved
+record: -1
+local_check: false

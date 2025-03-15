@@ -1,0 +1,16 @@
+type: choice
+is_multiple_choice: true
+options:
+  - text: <code>'42'</code>
+  - text: <code>"777" + 343</code>
+  - text: <code>"12" + "34"</code>
+  - text: <code>"ab"+"cd"</code>
+  - text: <code>"13"</code>
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24897#comment
+status: Solved
+record: -1
+local_check: false

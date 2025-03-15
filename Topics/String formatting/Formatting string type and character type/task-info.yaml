@@ -1,0 +1,14 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: Do you know that Golang is more than 12 years old
+  - text: Do you know that Golang is more than 12.000 years old
+  - text: Compile error
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/16865#comment
+status: Solved
+record: -1
+local_check: false

@@ -10,8 +10,6 @@ summary: "<p>Imagine that you're the owner of a new small corner shop. You are d
 programming_language: Go
 content:
   - My First Project with Go
-additional_files:
-  - name: build.gradle
-  - name: settings.gradle
+  - Topics
 mode: Study
 yaml_version: 2

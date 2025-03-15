@@ -1,0 +1,15 @@
+type: choice
+is_multiple_choice: false
+options:
+  - text: hello World
+  - text: Hello World!
+  - text: hello World!
+  - text: helloWorld!
+files:
+  - name: main.go
+    visible: true
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/24895#comment
+status: Solved
+record: -1
+local_check: false
